@@ -23,3 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+para ver o projecto, abrir o browser e ver o "localhost:8080"
